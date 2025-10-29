@@ -24,17 +24,17 @@ Custom CNN designed:
 - Final output: *sigmoid* for binary classification
 
 #  Necessities for training the model
- Image Size --> 256 × 256 
- Batch Size --> 32 
- Loss Function --> Binary Crossentropy (only two classes to classify)
- Optimizer --> adam
- Epochs --> 30 (EarlyStopping prevents overfitting) 
- Metrics --> Accuracy 
+- Image Size --> 256 × 256 
+- Batch Size --> 32 
+- Loss Function --> Binary Crossentropy (only two classes to classify)
+- Optimizer --> adam
+- Epochs --> 30 (EarlyStopping prevents overfitting) 
+- Metrics --> Accuracy 
 
  # Result and Evaluation metrices
  The model outputs:
- Training & Validation Accuracy Graph  
- Training & Validation Loss Graph  
- Confusion Matrix  
- Classification Report (Precision, Recall, F1-Score)
+- Training & Validation Accuracy Graph  
+- Training & Validation Loss Graph  
+- Confusion Matrix  
+- Classification Report (Precision, Recall, F1-Score)
 
